@@ -1,0 +1,1 @@
+clang.exe ../testprj.ll -o ./testprj.exe
